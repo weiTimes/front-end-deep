@@ -6,8 +6,8 @@
 
 ### Javascript基础与进阶
 
-[x] Javascript运行机制之事件循环
-[] 浏览器原理
+- [x] Javascript运行机制之事件循环
+- [ ] 浏览器原理
 
 ## 学习资源
 
