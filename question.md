@@ -2,7 +2,7 @@
 
 * 在一个React项目中，需要刷新三级路由，以达到重新加载三极路由对应的组件的目的（刷新数据），下面简单描述一下对应的业务场景
 
-![](https://tva1.sinaimg.cn/large/0081Kckwly1gkvlynnn3lj31gg0u07n5.jpg)
+![sample](https://tva1.sinaimg.cn/large/0081Kckwly1gkvlynnn3lj31gg0u07n5.jpg)
 
 如上图所示，区域1是一个tabs，每个tab对应的是一个路由组件，切换tab的时候路由（三级路由）会发生改变，当我点击区域1的按钮，并在进行一些操作后，需要刷新tab的数据，由于我没有用到任何状态管理工具，
 而且消息通知机制可维护性不高，所以想到了使用react router中的replace用当前的路径替换当前路径，相当于刷新路由，稍后我会解释一下是怎么实现的，在这之前，有些人肯定会有一些疑惑，我不是可以在父组件
