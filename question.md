@@ -116,8 +116,48 @@ const map = new Map([
 
 ```
 
+进入页面默认是展开所有项，即`map.get(3)`拿到对应的ids再赋值给`expandedRowKeys`，对应的ids包含了一级二级三级所有的id，试想一下，如果只包含三级的id，当我们赋值给expandedRowKeys时，三级树会展开，但是一二级未展开，我们也就无法看到展开的三级树，只有展开了一二级之后才能看到三级树的展开。
 
+然后实现点击按钮的处理逻辑，按钮的渲染是将map结构转成数组，然后遍历，数组长度为3，对应三级和三个按钮，每个按钮的展开状态取决于其中的isExpand，点击按钮在回调中传入相应的级数。主要通过当前按钮的展开状态和传入的级数判断接下来是执行展开操作还是收起操作，然后遍历修改对应的isExpand，这个主要是为了更新控制按钮的状态，然后再设置对应的expandedRowKeys，这个是控制展开的项，代码如下：
 
+```typescript
+
+  function handleExpand(level: number) {
+    const targetExpand = idsTree.get(level).isExpand; // 当前点击的元素的展开状态
+
+    if (targetExpand) {
+      // 执行收起
+      for (let i = 1; i <= 3; i++) {
+        const obj = idsTree.get(i);
+        if (i >= level) {
+          obj.isExpand = false;
+        } else {
+          obj.isExpand = true;
+        }
+
+        idsTree.set(i, obj);
+      }
+
+      setExpandedRowKeys(level - 1 === 0 ? [] : idsTree.get(level - 1).ids);
+    } else {
+      // 执行展开
+      for (let j = 1; j <= 3; j++) {
+        const obj2 = idsTree.get(j);
+
+        if (j <= level) {
+          obj2.isExpand = true;
+        } else {
+          obj2.isExpand = false;
+        }
+
+        idsTree.set(j, obj2);
+      }
+
+      setExpandedRowKeys(idsTree.get(level).ids);
+    }
+  }
+
+```
 
 
 
