@@ -163,7 +163,16 @@ const map = new Map([
 
 * 一个tab切换组件，内容由一个map进行管理，根据activeKey去加载不同的组件，如果不同的key对应同一个组件，其中组件含有搜索组件(pro-table自带的搜索组件)，在切换tab的时候即使重置搜索表单，pro-table内部请求的时候还是会带上之前设置的表单值，猜想是react会对同一个组件的内容进行合并处理，即有些状态无法得到更新。
 
-解决：可以给map key对应的组件设置一个key值，这样就可以确保几个组件各自管理自己的状态
+解决：可以给map key对应的组件设置一个key值，这样就可以确保几个组件各自管理自己的状态，代码如下：
+
+```javascript
+
+const content = {
+  3: <BillTable key={3} state={3} scroll="2000px" />,
+  1: <BillTable key={1} state={1} scroll="1400px" />,
+};
+  
+```
 
 
 
