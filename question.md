@@ -174,8 +174,9 @@ const content = {
   
 ```
 
+* [小程序] 输入框的层级会比定位元素高
 
-
+解决：将定位元素改成CoverView，然后设定z-index
 
 
 
