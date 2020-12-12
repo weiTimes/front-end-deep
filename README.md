@@ -24,6 +24,12 @@
 
 小浩算法是一套针对小白的完整的算法训练流程！
 
+* [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+本仓库包含了多种基于 JavaScript 的算法与数据结构。
+
+每种算法和数据结构都有自己的 README，包含相关说明和链接，以便进一步阅读 (还有 YouTube 视频) 。
+
 ### 其它
 
 * [dongyuanxin/blog](https://github.com/dongyuanxin/blog)
