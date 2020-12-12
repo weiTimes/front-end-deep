@@ -3,7 +3,36 @@
 > 这个世上不存在奇迹两个字，如果存在的话，也只是努力的别名。每天打怪升级，进步一点点。
 
 ## 开始吧
+
 [工作中遇到的问题及思考](https://github.com/weiTimes/front-end-deep/blob/main/question.md)
+
+## 我的工作哲学
+
+工欲善其事必先利其器~
+
+* 硬件
+
+mac + 机械键盘
+
+* vscode
+
+编辑器
+
+* screenity
+
+一个强大的屏幕录制和标注的 Chrome 插件
+
+* alfred
+
+应用快速启动器
+
+* Shadowsocks
+
+科学上网
+
+* Xnip
+
+好用的截图工具
 
 ## 自检清单
 
