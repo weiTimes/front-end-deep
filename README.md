@@ -73,9 +73,11 @@ mac + 机械键盘
 
 ### D3
 
-* [官方文档](https://d3js.org.cn/)
+* [官方文档](https://d3js.org/)
 
-* [官方教程系列](https://observablehq.com/@d3/learn-d3)
+* [官方中文文档](https://d3js.org.cn/)
+
+* [官方系列教程](https://observablehq.com/@d3/learn-d3)
 
 * [d3-tutorial-cn](http://pkuwwt.github.io/d3-tutorial-cn/about.html)
 
