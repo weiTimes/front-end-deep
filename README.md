@@ -71,6 +71,16 @@ mac + 机械键盘
 
 ## 学习资源
 
+### D3
+
+* [官方文档](https://d3js.org.cn/)
+
+* [官方教程系列](https://observablehq.com/@d3/learn-d3)
+
+* [d3-tutorial-cn](http://pkuwwt.github.io/d3-tutorial-cn/about.html)
+
+这个虽然教程较老，但还是值得学习
+
 ### 算法
 
 * [labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)
