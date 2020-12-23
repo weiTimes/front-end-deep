@@ -20,6 +20,10 @@ mac + 机械键盘
 
 编辑器
 
+* Iterm2 + oh my zsh
+
+终端
+
 * screenity
 
 一个强大的屏幕录制和标注的 Chrome 插件
