@@ -2,6 +2,8 @@
 
 > 这个世上不存在奇迹两个字，如果存在的话，也只是努力的别名。每天打怪升级，进步一点点。
 
+![banner](https://cdn.pixabay.com/photo/2016/10/23/23/11/light-bulbs-1765053_1280.jpg)
+
 ## 开始吧
 
 [工作中遇到的问题及思考](https://github.com/weiTimes/front-end-deep/blob/main/question.md)
