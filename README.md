@@ -72,7 +72,7 @@ mac + 机械键盘
 ### 前端工程化
 
 - [x] webpack项目搭建
-- [ ] webpack打包优化
+- [x] webpack打包优化
 - [ ] webpack核心原理
 - [ ] webpack5新特性
 
