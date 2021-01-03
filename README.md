@@ -60,13 +60,17 @@ mac + 机械键盘
 ### Javascript基础与进阶
 
 - [x] Javascript运行机制之事件循环
-- [ ] 浏览器原理
-* [浏览器是如何工作的：Chrome V8让你更懂JavaScript](https://mp.weixin.qq.com/s/IErDTGGr6GRPV4MlWv9Lnw)
 
-### 浏览器与V8原理
+### CSS
+
+- [ ] 动画
+* [CSS 动画教程](https://h-wakanda.github.io/css-animation-101-cn/)
+
+### 原理
 
 - [ ] 垃圾回收
-- [ ] 浏览器架构
+- [ ] 浏览器原理
+* [浏览器是如何工作的：Chrome V8让你更懂JavaScript](https://mp.weixin.qq.com/s/IErDTGGr6GRPV4MlWv9Lnw)
 
 ### 函数式编程
 
@@ -99,10 +103,6 @@ mac + 机械键盘
 
 
 ## 学习资源
-
-### CSS
-
-* [CSS 动画教程](https://h-wakanda.github.io/css-animation-101-cn/)
 
 ### D3
 
