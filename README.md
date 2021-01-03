@@ -40,11 +40,20 @@ mac + 机械键盘
 
 好用的截图工具
 
+## 值得关注的国内外网站或周刊
+
+* [React Status](https://docschina.org/weekly/react/docs/)
+* [ReactDOM](https://reactdom.com/)
+* [Medium](https://medium.com/)
+* [Youtube freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+* [掘金](https://juejin.im/)
+
+
 ## 自检清单
 
 ### 正在看的书
 
-- [ ] JavaScript忍者笔记（第2版）
+- [ ] JavaScript忍者秘籍（第2版）
 - [ ] Javascript现代教程
 
 ### Javascript基础与进阶
