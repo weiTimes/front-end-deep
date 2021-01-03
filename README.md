@@ -71,6 +71,7 @@ mac + 机械键盘
 - [ ] 垃圾回收
 - [ ] 浏览器原理
 * [浏览器是如何工作的：Chrome V8让你更懂JavaScript](https://mp.weixin.qq.com/s/IErDTGGr6GRPV4MlWv9Lnw)
+- [ ] 编译器原理
 
 ### 函数式编程
 
