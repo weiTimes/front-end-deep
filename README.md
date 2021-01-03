@@ -61,6 +61,7 @@ mac + 机械键盘
 
 - [x] Javascript运行机制之事件循环
 - [ ] 浏览器原理
+* [浏览器是如何工作的：Chrome V8让你更懂JavaScript](https://mp.weixin.qq.com/s/IErDTGGr6GRPV4MlWv9Lnw)
 
 ### 浏览器与V8原理
 
