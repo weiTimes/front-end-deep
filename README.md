@@ -93,6 +93,10 @@ mac + 机械键盘
 
 ## 学习资源
 
+### CSS
+
+* [CSS 动画教程](https://h-wakanda.github.io/css-animation-101-cn/)
+
 ### D3
 
 * [官方文档](https://d3js.org/)
