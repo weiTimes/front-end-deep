@@ -47,6 +47,7 @@ mac + 机械键盘
 * [Medium](https://medium.com/)
 * [Youtube freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [blog - Dan Abramov](https://overreacted.io/)
+* [flaviocopes](https://flaviocopes.com/)
 * [掘金](https://juejin.im/)
 
 
