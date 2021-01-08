@@ -67,6 +67,10 @@ mac + 机械键盘
 - [ ] 动画
 * [CSS 动画教程](https://h-wakanda.github.io/css-animation-101-cn/)
 
+### Typescript
+
+- [ ] [TypeScript 备忘录：如何在 React 中完美运用？](https://juejin.cn/post/6910863689260204039) 
+
 ### 原理
 
 - [ ] 垃圾回收
@@ -76,7 +80,9 @@ mac + 机械键盘
 
 ### 函数式编程
 
-### React进阶
+### React
+
+#### react hooks
 
 - [ ] react hooks
 
