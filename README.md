@@ -8,6 +8,56 @@
 
 [工作中遇到的问题及思考](https://github.com/weiTimes/front-end-deep/blob/main/question.md)
 
+## 我的技术栈
+
+- [ ] 使用 icon 进行分类，表示了解、掌握、熟练
+
+* Javascript
+  * ES6+
+  * Typescript
+
+* Reactjs
+  * Nextjs
+  * Gatsbyjs
+  * Umijs
+  * Taro
+  
+* 组件库
+  * Antd
+  
+* 状态管理
+  * redux
+  * dva
+  * reciol
+  
+* 样式组织
+  * 预处理器
+  * CSS Module
+  * css next
+  * CSS IN JS
+  
+* http
+  * fetch
+  * axios
+  * useRequest
+  * react-query
+  
+* API
+  * Nodejs
+  * Nginx
+  * pm2
+  * docker
+  * Jenkins
+  
+* Tools
+  * Storybook
+  * Eslint
+  * Prettier
+  * Vscode
+  * Iterm2 + oh my zsh
+  * Yapi
+
+
 ## 我的工作哲学
 
 工欲善其事必先利其器~
