@@ -30,7 +30,7 @@
 * 状态管理
   * redux
   * dva
-  * reciol
+  * recoil
   
 * 样式组织
   * 预处理器
