@@ -98,6 +98,7 @@ mac + 机械键盘
 * [Youtube freecodecamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 * [blog - Dan Abramov](https://overreacted.io/)
 * [flaviocopes](https://flaviocopes.com/)
+* [dev.to](https://dev.to/)
 * [掘金](https://juejin.im/)
 
 
