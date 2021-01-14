@@ -1,6 +1,10 @@
 # front-end-deep
 
-> 这个世上不存在奇迹两个字，如果存在的话，也只是努力的别名。每天打怪升级，进步一点点。
+> 
+
+> 这个世上不存在奇迹两个字，如果存在的话，也只是努力的别名。
+
+正在进行的项目
 
 ![banner](https://cdn.pixabay.com/photo/2016/10/23/23/11/light-bulbs-1765053_1280.jpg)
 
@@ -58,7 +62,6 @@
   * Vscode
   * Iterm2 + oh my zsh
   * Yapi
-
 
 ## 我的工作哲学
 
