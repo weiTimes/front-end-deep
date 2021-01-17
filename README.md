@@ -23,6 +23,7 @@
 * [书单](#书单)
 * [日常关注的国内外网站或周刊](#日常关注的国内外网站或周刊)
 * [参考博客](#参考博客)
+* [值得关注的开源项目](#值得关注的开源项目)
 * [学习清单](#学习清单)
 * [实战笔记](#实战笔记)
   
@@ -156,6 +157,14 @@ mac + 机械键盘
  * [dongyuanxin/blog](https://github.com/dongyuanxin/blog)
 此仓库是作者在 Web 学习和工作过程中逐渐积累的笔记。2020 年之前，主要内容是前端开发和算法题解；从 2020 年开始，由于工作和兴趣，主要是云计算（Serverless）和服务侧开发（NodeJS）。
 
+## 值得关注的开源项目
+
+- [ ] 框架
+  - [ ] [Next.js](https://github.com/vercel/next.js)
+
+- [ ] 协作开发
+  - [ ] [Bit](https://github.com/teambit/bit)
+  - [ ] [storybook](https://github.com/storybookjs/storybook)
 
 ## 学习清单
 ### Javascript
