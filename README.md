@@ -166,6 +166,21 @@ mac + 机械键盘
   - [ ] [Bit](https://github.com/teambit/bit)
   - [ ] [storybook](https://github.com/storybookjs/storybook)
 
+- [ ] 规范
+  - [ ] [clean-code-typescript](https://github.com/labs42io/clean-code-typescript)
+  代码整洁之道
+
+## 学习之前
+
+### 遇到编程问题
+
+遇到编程问题时，我总结了我解决问题的一个方法。
+
+1. 首先定位问题，确定最贴合问题的几个关键词，如我想在Next.js项目中知道嵌套路由如果更好地实现，其中的关键词就是`nextjs wrap router`；
+2. google 确定好的关键词；
+3. google 没有好的解决方案，上nextjs issue 查看是否有答案，如没有可以尝试提issue；
+4. github issue 没有满意的答案，上[stack overflow](https://stackoverflow.com/)搜索是否有和自己遇到相似的问题，如果没有可以自己提出问题，然后等待热心的开发者回答。
+
 ## 学习清单
 ### Javascript
 
