@@ -44,6 +44,7 @@
     - [文章](#文章)
   - [函数式编程](#函数式编程)
   - [React](#react)
+  - [状态管理](#状态管理)
   - [Vue](#vue)
   - [Nodejs](#nodejs)
   - [前端工程化与CICD](#前端工程化与cicd)
@@ -212,7 +213,7 @@ mac + 机械键盘
   代码整洁之道
 
 - [ ] 资源汇总
-- [ ] [GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）](https://github.com/FrontEndGitHub/FrontEndGitHub)
+  - [ ] [GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）](https://github.com/FrontEndGitHub/FrontEndGitHub)
 
 ## 学习之前
 
@@ -284,6 +285,8 @@ mac + 机械键盘
   - [ ] [CSS 动画教程](https://h-wakanda.github.io/css-animation-101-cn/)
 - [ ] PostCSS
   - [ ] [使用 PostCSS 进行 CSS 处理](https://developer.ibm.com/zh/technologies/web-development/articles/1604-postcss-css/)
+- [ ] 原子 CSS
+  - [ ] [Facebook 重构时为什么要使用 TailwindCSS 方案？](https://mp.weixin.qq.com/s/vg8g291Lmxbz4REXLFgTGA) 原子css，一个类只对应一个属性，但是具有语义化；虽然一开始会有很多的类，但是随着应用的增大，整体的体积会呈缓慢上升的趋势，因为很多规则已经存在不需要再增加额外的类去定义。
 
 ### Typescript
 
@@ -320,6 +323,11 @@ mac + 机械键盘
   - [ ] [将 React 作为 UI 运行时](https://overreacted.io/zh-hans/react-as-a-ui-runtime/)
 - [ ] 组件设计
   - [ ] [Persistent Layout Patterns in Next.js](https://adamwathan.me/2019/10/17/persistent-layout-patterns-in-nextjs/)
+
+### 状态管理
+
+- [ ] recoil.js
+  - [ ] [Recoil: State Management for Today's React](https://www.youtube.com/watch?v=_ISAA_Jt9kI&feature=emb_logo&ab_channel=ReactEurope) 🎥
 
 ### Vue
 
@@ -365,6 +373,7 @@ mac + 机械键盘
 ](https://zhuanlan.zhihu.com/p/61018434)
   - [ ] [解读 IoC 框架 InversifyJS](https://www.jianshu.com/p/1c1f255d8ef7)
 - [ ] 元编程
+  - [ ] [Javascript 元编程](https://mp.weixin.qq.com/s/Kz7WiLo5bv2tKyCW3pVE5A)
 
 ### 微服务
 
